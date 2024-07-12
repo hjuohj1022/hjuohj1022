@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Hey 👋, This is 한진우
+[![Gmail Badge](https://img.shields.io/badge/-hjuohj1022@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hjuohj1022@naver.com)](mailto:hjuohj1022@naver.com) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=hjuohj1022@naver.com/)](hjuohj1022@naver.com/) <p align='left'>이제 막 코딩을 배우기 시작하는 노는 것을 좋아하는 한진우라고 합니다!</p>
 <!--
 **hjuohj1022/hjuohj1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

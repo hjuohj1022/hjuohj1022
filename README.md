@@ -7,6 +7,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjuohj1022)](https://solved.ac/hjuohj1022)
 
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width=".2%" />
 <!--
 **hjuohj1022/hjuohj1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,7 +7,7 @@
 
 #### 🎖️Ranking
 <div>
-<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=hjuohj1022" width="42%" height="100%"/>
+<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=hjuohj1022" width="67%" height="100%"/>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjuohj1022&layout=compact&theme=radical)

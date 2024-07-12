@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=blue)](https://www.instagram.com/hanjinu55/)
 [![Gmail Badge](https://img.shields.io/badge/-hjuohj@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hjuohj@gmail.com)](mailto:hjuohj@gmail.com)
 
-<p align='left'>이제 막 코딩을 배우기 시작하는 노는 것을 좋아하는 한진우라고 합니다!</p>
+<p align='left'>이제 막 코딩을 배우기 시작한 노는 것을 좋아하는 한진우라고 합니다!</p>
 
 #### 🎖️Ranking
 [![Solved.ac

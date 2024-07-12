@@ -6,8 +6,9 @@
 <p align='left'>이제 막 코딩을 배우기 시작한 노는 것을 좋아하는 한진우라고 합니다!</p>
 
 #### 🎖️Ranking
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?username=hjuohj1022)](https://solved.ac/hjuohj1022)
+<div>
+<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=hjuohj1022" width="42%" height="100%"/>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjuohj1022&layout=compact&theme=radical)
 
